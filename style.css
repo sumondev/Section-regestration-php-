@@ -1,0 +1,102 @@
+
+*{
+    padding: 0;
+    margin: auto;
+}
+
+
+body{
+    
+    background: #D1D5D8;
+}
+
+
+
+#name5{
+
+
+    width: 40px;
+    column-rule-color: red;
+}
+
+
+.main{
+    min-height: 1000px;
+    width: 80%;
+    
+}
+
+.banner{
+    height: 200px;
+    background:#CDC99F;
+    text-align: center;
+    line-height: 200px;
+    
+}
+
+.banner .text{
+    
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: georgia;
+    color: #0F3057;
+    
+    
+}
+
+
+
+
+
+.form{
+
+     text-decoration-color: blue;
+
+    background-color: blue;
+}
+
+    
+    
+    
+
+
+.reg{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 100px;
+   
+    min-height: 700px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+    
+}
+
+.reg input{
+    
+    padding: 5px;
+    margin: 10px;
+    
+    
+}
+
+.reg .text{
+    
+    font-size: 40px;
+    background: #977BAB;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.reg .name9{
+    background-color: green;
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+</html>
